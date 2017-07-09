@@ -1,0 +1,7 @@
+# para evitar subir los archivos creados como el csv y otro para pruebas
+# como el csv.php y imap.php, de igual forma ya estan en el index.php
+
+/csv
+/class/test.php
+imap.php
+csv.php
